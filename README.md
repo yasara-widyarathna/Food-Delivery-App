@@ -1,6 +1,6 @@
 # Food Delivery App 🍔🚚
 
-This is a Food Delivery App** only**frontend built using React.js. It allows users to browse food items, manage their cart, and place orders. The app provides a clean and responsive user interface.
+This is a **Food Delivery App** only **frontend** built using React.js. It allows users to browse food items, manage their cart, and place orders. The app provides a clean and responsive user interface.
 
 ## Features ✨
 
