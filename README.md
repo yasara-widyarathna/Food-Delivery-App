@@ -1,28 +1,8 @@
-# Food Ordering Website | Full-Stack Web Application
+# React + Vite
 
-A full-stack food ordering website built using **React.js**, **Node.js**, **Express.js**, and **MongoDB**. This application allows users to browse products, place orders, and manage their profile. Admins can manage products and view order details.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Key Features
+Currently, two official plugins are available:
 
-- **User Authentication**: Secure login, registration, and logout functionalities.
-- **Customer Interface**: 
-  - Cart page for managing orders.
-  - "My Orders" page to view past orders.
-- **Admin Panel**:
-  - Product management (Add, list, and update products).
-  - Order management (View and manage customer orders).
-- **Responsive Design**: The website is responsive and adapts to various screen sizes.
-- **RESTful API**: Backend built with Express.js and MongoDB, handling API requests for product and order data.
-
-## Technologies Used
-
-- **Frontend**:
-  - React.js for building a dynamic and responsive user interface.
-  - React Router for page navigation.
-  - CSS for styling the application.
-  
-- **Backend**:
-  - Node.js and Express.js for server-side logic and API handling.
-  - MongoDB for database management (user data, product details, and orders).
-
-
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
